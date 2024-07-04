@@ -31,14 +31,14 @@ export const projectsData = [
         image: sistemabancario,
         title: "Bank system",
         category: "backend",
-        link: "https://github.com/henriquepmartins/brand-design",
+        link: "https://github.com/henriquepmartins/sistemaBancario",
     },
     {
         id: 5,
         image: dungirotto,
         title: "Dungeon Crawler inspired game",
         category: "web", 
-        link: "https://github.com/henriquepmartins/brand-design",
+        link: "https://github.com/henriquepmartins/Dungirotto",
     },
 ];
 
